@@ -8,7 +8,6 @@ import { createAppContainer } from '@react-navigation/native';
 const A = () => <View />;
 const B = () => <View />;
 const routeConfig = { A, B };
-//abc
 
 describe('SwitchNavigator', () => {
   it('renders successfully', () => {
